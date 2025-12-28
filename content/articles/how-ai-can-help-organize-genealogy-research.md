@@ -2,7 +2,7 @@
 title: "How AI Can Help Organize and Assist with Genealogy Research"
 date: 2025-12-10
 draft: false
-image: /images/articles/how-ai-can-help-organize-genealogy-research.png
+image: images/articles/how-ai-can-help-organize-genealogy-research.png
 description: "Learn how AI tools like Claude, Gemini and ChatGPT can help you organize messy genealogy research while keeping you in control of your family history analysis."
 categories: ["AI for Genealogy"]
 tags: ["AI for genealogy", "genealogy organization", "AI genealogy tools", "ChatGPT genealogy", "Claude genealogy"]
