@@ -2,6 +2,7 @@
 title: "Is AI Safe to Use for Genealogy Research and Family History Writing?"
 date: 2025-12-22
 draft: false
+image: /images/articles/is-ai-safe-to-use-for-genealogy-research.png
 description: "Wondering if AI is safe for genealogy? Learn what AI tools can and can't do, how to use them wisely, and why they're becoming essential for family historians."
 categories: ["AI for Genealogy"]
 tags: ["AI for genealogy", "AI genealogy tools", "ChatGPT genealogy", "Claude genealogy", "family history writing"]

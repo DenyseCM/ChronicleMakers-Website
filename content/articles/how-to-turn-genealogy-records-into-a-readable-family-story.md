@@ -2,6 +2,7 @@
 title: "How to Turn Genealogy Records into a Readable Family Story"
 date: 2025-12-19
 draft: false
+image: /images/articles/how-to-turn-genealogy-records-into-a-readable-family-story.png
 description: "Transform dry genealogy records into engaging family stories with this step-by-step guide. Learn to find the narrative hidden in census records, vital documents, and historical sources."
 categories: ["Writing Family History"]
 tags: ["family history writing", "genealogy records", "family history stories", "how to write family history"]

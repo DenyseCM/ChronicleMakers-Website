@@ -2,6 +2,7 @@
 title: "How to Write About Ordinary Ancestors and Make It Meaningful"
 date: 2025-12-04
 draft: false
+image: /images/articles/how-to-write-about-ordinary-ancestors.png
 description: "Your ancestors weren't famous, but their stories matter. Learn how to write compelling family history about ordinary people who lived extraordinary lives."
 categories: ["American Chronicles"]
 tags: ["family history writing", "American family history stories", "ordinary ancestors", "family history stories"]

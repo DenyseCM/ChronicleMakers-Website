@@ -2,6 +2,7 @@
 title: "Why Most Family History Projects Never Get Finished"
 date: 2025-12-07
 draft: false
+image: /images/articles/why-most-family-history-projects-never-get-finished.png
 description: "Discover why so many genealogy projects remain unfinished and learn how to become a family historian who actually completes their work."
 categories: ["Publishing Family History"]
 tags: ["finish family history project", "genealogy motivation", "family history writing", "genealogy projects"]

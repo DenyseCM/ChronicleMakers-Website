@@ -2,6 +2,7 @@
 title: "What to Do with Genealogy Research When You Feel Stuck"
 date: 2025-12-26
 draft: false
+image: /images/articles/what-to-do-with-genealogy-research-when-you-feel-stuck.png
 description: "Feeling stuck with your genealogy research? Learn practical and emotional strategies to move past brick walls and make progress on your family history."
 categories: ["Brick Walls"]
 tags: ["genealogy brick walls", "genealogy research", "feeling stuck genealogy", "family history writing"]

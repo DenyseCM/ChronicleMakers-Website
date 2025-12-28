@@ -2,6 +2,7 @@
 title: "How Much Research Is Enough Before You Start Writing Family History"
 date: 2025-12-13
 draft: false
+image: /images/articles/how-much-research-is-enough-before-writing-family-history.png
 description: "Caught in the trap of endless research? Learn when you have enough to start writing your family history and how to break the over-research cycle."
 categories: ["Brick Walls"]
 tags: ["genealogy research", "family history writing", "finish family history project", "genealogy organization"]

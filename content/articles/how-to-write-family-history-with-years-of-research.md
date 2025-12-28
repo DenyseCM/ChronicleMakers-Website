@@ -2,6 +2,7 @@
 title: "How to Write a Family History Story When You Have Years of Research"
 date: 2025-12-28
 draft: false
+image: /images/articles/how-to-write-family-history-with-years-of-research.png
 description: "Transform your years of genealogy research into a finished family history story. Learn how to stop researching and start writing with a clear process."
 categories: ["Writing Family History"]
 tags: ["family history writing", "genealogy research", "finish family history project", "AI for family history"]

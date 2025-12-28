@@ -2,6 +2,7 @@
 title: "What Makes a Family History Interesting to People Who Aren't Genealogists"
 date: 2025-12-16
 draft: false
+image: /images/articles/what-makes-family-history-interesting-to-non-genealogists.png
 description: "Worried your family history will bore your family? Learn what makes family stories interesting to everyone, not just researchers."
 categories: ["Writing Family History"]
 tags: ["family history writing", "family history stories", "sharing family history", "genealogy storytelling"]

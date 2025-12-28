@@ -2,6 +2,7 @@
 title: "What to Do After You Write Your First Family History Story"
 date: 2025-12-01
 draft: false
+image: /images/articles/what-to-do-after-your-first-family-history-story.png
 description: "You finished your first family history story. Now what? Learn how to build momentum, share your work, and keep writing more stories."
 categories: ["Publishing Family History"]
 tags: ["family history writing", "finish family history project", "sharing family history", "publishing family history"]
