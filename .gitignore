@@ -1,0 +1,20 @@
+# Build output
+public/
+
+# Hugo lock file
+.hugo_build.lock
+
+# macOS system files
+.DS_Store
+
+# Node modules (if using npm for theme)
+node_modules/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Hugo resources cache
+resources/_gen/
