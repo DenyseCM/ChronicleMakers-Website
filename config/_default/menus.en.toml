@@ -1,0 +1,50 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Start Here"
+  pageRef = "start-here"
+  weight = 20
+
+[[main]]
+  name = "Courses"
+  pageRef = "courses"
+  weight = 30
+
+[[main]]
+  name = "Articles"
+  pageRef = "articles"
+  weight = 40
+
+[[main]]
+  name = "FAQ"
+  pageRef = "faq"
+  weight = 50
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 60
+
+
+# -- Footer Menu --
+
+[[footer]]
+  name = "Start Here"
+  pageRef = "start-here"
+  weight = 10
+
+[[footer]]
+  name = "Articles"
+  pageRef = "articles"
+  weight = 20
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 30

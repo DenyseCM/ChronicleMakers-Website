@@ -1,0 +1,4 @@
+baseURL = 'https://chroniclemakers.com/'
+languageCode = 'en-us'
+title = 'Chronicle Makers'
+theme = "blowfish"
