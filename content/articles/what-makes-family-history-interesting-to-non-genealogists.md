@@ -2,7 +2,7 @@
 title: "What Makes a Family History Interesting to People Who Aren't Genealogists"
 date: 2025-12-16
 draft: false
-description: "Worried your family history will bore non-genealogists? Learn what makes family stories compelling to everyone, not just researchers."
+description: "Worried your family history will bore your family? Learn what makes family stories interesting to everyone, not just researchers."
 categories: ["Writing Family History"]
 tags: ["family history writing", "family history stories", "sharing family history", "genealogy storytelling"]
 ---
@@ -13,9 +13,9 @@ Most family historians face this worry. We pour months or years into our researc
 
 This fear stops too many family histories from being shared. But here's the thing: the problem isn't your family's story. It's how genealogists are taught to tell stories.
 
-## What Non-Genealogists Don't Care About
+## What Family Doesn't Care About
 
-Let's start with what doesn't work. Understanding this clears the path for what does.
+Let's start with what doesn't matter for non-genealogists. Understanding this clears the path for what does.
 
 **Source citations in the narrative.** Your genealogist friends want to see "(Ancestry.com, 1870 U.S. Census)" after every fact. Your cousin doesn't. Citations are important for credibility, but they belong in endnotes, not woven into the story.
 
@@ -27,7 +27,7 @@ Let's start with what doesn't work. Understanding this clears the path for what 
 
 **Research process stories.** How you found the document is less interesting than what the document reveals. "After searching for three years, I finally found..." can usually be cut entirely.
 
-This isn't criticism. These elements matter for genealogical work. But they're not what makes a story compelling.
+This isn't criticism. These elements matter for genealogical work (and you can include all of this in the appendix or endnotes if you want to). But they're not what makes a story compelling.
 
 ## What Everyone Cares About
 
@@ -59,11 +59,11 @@ Not "she was religious" but "she knelt by her bed every night and prayed in Poli
 
 Specificity makes writing vivid. Readers see what you describe. General statements float past without landing.
 
-### Emotional Truth
+### Emotional Moments
 
 What did it feel like? This question transforms genealogy into story.
 
-The ship manifest tells you she traveled in steerage. The story explores what steerage felt like. The smell. The seasickness. The fear. The hope.
+The ship manifest tells you she traveled in steerage. The story explores what steerage felt like. The smell. The seasickness. The fellow passengers who died on the way. The fear. The hope.
 
 You won't always know the feelings. But you can imagine them honestly. Your readers have felt fear, hope, grief, and joy. Help them feel what your ancestors might have felt.
 

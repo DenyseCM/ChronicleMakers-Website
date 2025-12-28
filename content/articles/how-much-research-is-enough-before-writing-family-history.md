@@ -11,9 +11,9 @@ One more record. One more database. One more DNA match to analyze. Then you'll h
 
 Except that day never comes. The research expands endlessly. There's always something else to find. Meanwhile, the family history stays unwritten.
 
-This trap catches dedicated researchers. Your thoroughness, the quality that makes you good at genealogy, becomes the obstacle that prevents you from finishing.
+This trap catches dedicated researchers. Your thoroughness, the quality that makes you good at genealogy, becomes the obstacle that prevents you from writing.
 
-Here's the uncomfortable truth: you probably have enough research to start writing right now.
+Here's the reality: you have enough genealogy research to start writing right now.
 
 ## The Myth of Complete Research
 
@@ -23,7 +23,9 @@ This belief is a lie. Research is never complete. Every answer raises new questi
 
 If complete research is the prerequisite for writing, no one would ever write anything.
 
-Professional historians don't wait for complete research. Biographers don't know everything about their subjects. Journalists file stories with imperfect information. Writers of all kinds learn to work with what they have.
+Professional historians don't wait for complete research. Biographers don't know everything about their subjects. Journalists file stories with imperfect information. All of these professions pick a scope of work and give themselves a deadline and publish what they have *by that time.* 
+
+Writers of all kinds learn to work with what they have.
 
 Family historians can too.
 
@@ -31,15 +33,15 @@ Family historians can too.
 
 The over-research trap isn't random. It serves psychological purposes we don't always recognize.
 
-**Research is safe.** Finding records feels productive. It gives us the satisfaction of discovery without the vulnerability of creation. No one can criticize your research the way they might criticize your writing.
+**Research is safe.** Finding records feels productive. We get a little dopamine hit each time we match a record to an ancestor. It gives us the satisfaction of discovery without the vulnerability of creation. No one can criticize your research the way they might criticize your writing.
 
-**Writing is scary.** Putting words on a page means committing to interpretations. It means someone might read it. It means the work could be judged. Research postpones that exposure.
+**Writing is scary.** Putting words on a page means commitment. It means someone might read it. It means the work could be judged. Research postpones that exposure.
 
 **Research has clear wins.** Found the record? Success! Writing is murkier. Is this sentence good? Is this story interesting? The feedback is slower and more subjective.
 
-**The bar keeps rising.** The more you learn, the more you realize you don't know. Knowledge expands your awareness of ignorance. You feel less ready to write even as you become more qualified.
+**The bar keeps rising.** The more you learn, the more you realize you don't know. Research rabbit-holes open up and you jump down them, filling hours of time learning. The result? You feel less ready to write even as you become more knowledgeable.
 
-Understanding these dynamics helps you resist them. Over-research isn't about needing more information. It's about avoiding the discomfort of writing.
+Understanding these dynamics helps you resist them. There is such a thing as "over-research". The quest for more information may be about avoiding the discomfort of writing.
 
 ## Signs You Have Enough
 
@@ -131,4 +133,4 @@ Happy Chronicling!
 
 ***—Denyse***
 
-P.S. That ancestor you keep researching? They're waiting for their story to be told. Join Chronicle Makers and finally start writing.
+P.S. That ancestor you keep researching? They're waiting for their story to be told. Chronicle Makers Skool Community has a 10-Day Writing Sprint that produces am AI-assisted story that doesn't sound like a robot wrote it. It's perfect for beginning writers.

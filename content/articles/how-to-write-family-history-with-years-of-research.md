@@ -102,7 +102,7 @@ The next set of records tells this part of the story. The new location. The new 
 
 This structure transforms scattered research into focused narrative. It gives you permission to leave out everything that doesn't serve these three scenes.
 
-## Lower Your Standards to Raise Your Output
+## Set a Realistic Standard to Raise Your Output
 
 Perfectionism is the enemy of finished family history stories.
 

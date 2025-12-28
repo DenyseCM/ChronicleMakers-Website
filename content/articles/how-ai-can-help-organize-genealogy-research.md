@@ -1,8 +1,8 @@
 ---
-title: "How AI Can Help Organize Genealogy Research Without Replacing Your Thinking"
+title: "How AI Can Help Organize and Assist with Genealogy Research"
 date: 2025-12-10
 draft: false
-description: "Learn how AI tools like Claude and ChatGPT can help you organize messy genealogy research while keeping you in control of your family history analysis."
+description: "Learn how AI tools like Claude, Gemini and ChatGPT can help you organize messy genealogy research while keeping you in control of your family history analysis."
 categories: ["AI for Genealogy"]
 tags: ["AI for genealogy", "genealogy organization", "AI genealogy tools", "ChatGPT genealogy", "Claude genealogy"]
 ---
@@ -125,7 +125,7 @@ Try one method today. Pick the ancestor with the messiest files. Dump everything
 
 You might find connections you missed. You might identify contradictions hiding in plain sight. You might generate questions that lead to breakthroughs.
 
-AI won't organize your research for you. But it can help you organize it yourself, faster and more thoroughly than working alone.
+AI won't do your research for you. But it can help you organize it yourself, faster and more thoroughly than working alone.
 
 The Chronicle Makers community uses AI throughout our research and writing process. We share techniques, compare results, and help each other use these tools effectively.
 
@@ -133,4 +133,4 @@ Happy Chronicling!
 
 ***—Denyse***
 
-P.S. Your scattered research doesn't have to stay scattered. AI can help you make sense of the chaos. Join Chronicle Makers and learn how.
+P.S. Your scattered research doesn't have to stay scattered. AI can help you make sense of the chaos. Join Chronicle Makers and take our Family Tree Foundations Course to get get organized, check for errors, and make an effective research plan—all with AI's help.

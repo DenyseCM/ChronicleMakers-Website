@@ -1,6 +1,6 @@
 ---
 title: "What to Do with Genealogy Research When You Feel Stuck"
-date: 2025-12-25
+date: 2025-12-26
 draft: false
 description: "Feeling stuck with your genealogy research? Learn practical and emotional strategies to move past brick walls and make progress on your family history."
 categories: ["Brick Walls"]
@@ -73,7 +73,7 @@ Sometimes feeling stuck is grief asking to be acknowledged. The solution isn't p
 
 Working alone makes every obstacle feel larger. Without others to reflect your progress, you lose perspective. Without accountability, it's easy to drift.
 
-Connection solves isolation. Find other family historians. Join a society or online community. Share your work in progress. Let others witness your journey.
+Connection solves isolation. Find other family historians. Join a society or online community. (Try Chronicle Makers - we are the premiere writing community!) Share your work in progress. Let others witness your journey.
 
 ## Practical Steps to Get Moving Again
 
@@ -105,7 +105,7 @@ Your ancestors have been waiting for decades or centuries. They can wait a littl
 
 AI tools offer new ways to approach old problems.
 
-When I'm stuck on research, I use Claude or ChatGPT to brainstorm source ideas. "Where might I find records for a farmer in 1850s rural Pennsylvania?" generates suggestions I might not have considered.
+When I'm stuck on research, I use Claude, Gemini, or ChatGPT to brainstorm source ideas. "Where might I find records for a farmer in 1850s rural Pennsylvania?" generates suggestions I might not have considered.
 
 When I'm stuck on writing, I use AI to draft sections I'm avoiding. Getting words on the page, even AI-generated words, breaks the paralysis. Then I revise to make them mine.
 

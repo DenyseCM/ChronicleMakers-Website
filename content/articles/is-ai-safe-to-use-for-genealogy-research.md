@@ -71,15 +71,15 @@ When AI makes specific claims about your ancestors, be suspicious. Unless you pr
 
 ### AI Hallucinates with Confidence
 
-AI doesn't know what it doesn't know. It will generate plausible names, dates, and places that don't exist. It won't tell you it's guessing.
+AI doesn't know what it doesn't know. It will generate plausible names, dates, and places that don't exist. It won't tell you it's generating answers, but that is what it is doing.
 
-I've seen AI invent entire family lines that sounded reasonable but had no basis in reality. The confident tone makes this dangerous. Always verify AI-generated facts against primary sources.
+I've seen AI invent entire family lines that sounded reasonable but had no basis in reality. The confident tone makes it easy to be fooled. Always verify AI-generated facts against primary sources.
 
 ### AI Reflects Its Training Data
 
-AI learned from the internet, which contains errors, biases, and outdated information. It may repeat genealogical myths. It may reflect historical prejudices in how it describes certain groups.
+AI learned from the internet, which contains errors, biases, and outdated information. It may repeat genealogical myths. It may reflect historical bias. 
 
-Your critical thinking remains essential. AI is a starting point, not an authority.
+Your critical thinking remains essential. AI can make mistakes.
 
 ### AI Can't Replace Human Judgment
 
@@ -93,7 +93,7 @@ Safe AI use comes down to habits and awareness.
 
 **Verify everything.** Treat AI output as a hypothesis to test, not a fact to trust. Check claims against primary sources before including them in your research.
 
-**Provide context.** AI works better when you tell it what you already know. "My ancestor John Smith lived in Lancaster County, Pennsylvania in the 1850s" gets better results than just asking about "John Smith."
+**Provide context.** AI works better when you tell it what you already know. Upload those research notes and transcriptions or just type it in the chat. "My ancestor John Smith lived in Lancaster County, Pennsylvania in the 1850s" gets better results than just asking about "John Smith."
 
 **Use it for process, not facts.** AI excels at helping you think, organize, and write. It's weaker at providing accurate historical details. Play to its strengths.
 
@@ -101,7 +101,7 @@ Safe AI use comes down to habits and awareness.
 
 **Protect sensitive information.** Be thoughtful about sharing living relatives' personal details with AI tools. Read privacy policies. Use settings that limit data retention when available.
 
-**Stay current.** AI tools improve fast. What was true about their capabilities six months ago may not be true today. Keep learning.
+**Stay current.** AI tools improve fast. What was true about their capabilities six months ago may not be true today. Keep learning. The Chronicle Makers community keeps up-to-date on all these tools.
 
 ## The Real Risk Is Not Using AI
 
@@ -111,7 +111,7 @@ Family historians who embrace these tools finish more projects. They write more 
 
 Those who avoid AI out of fear miss these benefits. Their research stays in boxes. Their stories stay unwritten.
 
-AI isn't replacing family historians. But family historians who use AI are accomplishing more than those who don't.
+Family historians who use AI are accomplishing 10-20x more than those who don't.
 
 ## Getting Started Safely
 
@@ -129,4 +129,4 @@ Happy Chronicling!
 
 ***—Denyse***
 
-P.S. Still nervous about AI? You're not alone. Join Chronicle Makers where we help each other learn these tools in a supportive environment. No judgment, just progress.
+P.S. Still nervous about AI? You're not alone. Join Chronicle Makers on Skool where we help each other learn these tools in a supportive environment.

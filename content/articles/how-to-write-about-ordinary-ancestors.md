@@ -7,7 +7,7 @@ categories: ["American Chronicles"]
 tags: ["family history writing", "American family history stories", "ordinary ancestors", "family history stories"]
 ---
 
-Your ancestors weren't presidents or generals. They didn't invent anything famous. They didn't appear in history books.
+If you are like most people, your ancestors weren't presidents or generals. They didn't invent anything famous. They didn't appear in history books.
 
 They were farmers, factory workers, housewives, immigrants, laborers. Ordinary people living ordinary lives. And you might wonder: is there anything worth writing about?
 
@@ -21,7 +21,7 @@ But that's not how life works. The exceptional people were exceptions. Everyone 
 
 These lives built the world. The soldiers who fought wars weren't generals. The workers who built cities weren't architects. The families who settled frontiers weren't explorers. History happened through ordinary people.
 
-Your ancestors weren't footnotes to history. They were history.
+Your ancestors weren't footnotes to history. ***They were history.***
 
 ## Finding the Story in Ordinary Lives
 

@@ -23,7 +23,7 @@ Pick one ancestor. Then pick one event in that ancestor's life. A birth. A marri
 
 The event should have documentation. You need something to anchor the story in fact. But it should also have significance. Something changed because of this event.
 
-For this guide, I'll use an example: my great-grandmother Anna arriving in America in 1903.
+For this guide, I'll use an example: an imaginary ancestor Anna arriving in America in 1903.
 
 ## Step 2: Gather Your Records for This Event
 

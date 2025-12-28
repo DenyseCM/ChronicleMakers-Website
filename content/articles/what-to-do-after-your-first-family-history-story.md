@@ -101,6 +101,8 @@ Community transforms the experience. The work becomes social rather than solitar
 
 Online communities work for this. So do local writing groups. So do genealogical societies with writing focus. The format matters less than finding your people.
 
+Chronicle Makers offers a VIP community of family history writers publshing everything from single stories, to websites, to family newsletters, to family history books.
+
 ## Use What You've Proven
 
 You've proven something to yourself. You can turn research into a finished story. That capacity didn't exist before. Now it does.
@@ -135,4 +137,4 @@ Happy Chronicling!
 
 ***—Denyse***
 
-P.S. That first finished story changes everything. It proves you can do this. Join Chronicle Makers Writing Lab and see how far this new ability can take you.
+P.S. That first finished story changes everything. It proves you can do this. Join Chronicle Makers Writing Lab on Skool and see how far this new ability can take you.
